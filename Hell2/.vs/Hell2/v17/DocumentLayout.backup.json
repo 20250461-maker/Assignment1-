@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\New folder\\OneDrive\\Documents\\CS213-2026-2027-Assignment1-v4\\Hell2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9AA73-397E-4A11-91FC-1725F292D2FC}|Hell2\\Hell2.vcxproj|C:\\Users\\user\\OneDrive\\New folder\\OneDrive\\Documents\\CS213-2026-2027-Assignment1-v4\\Hell2\\Hell2\\Hell22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32A9AA73-397E-4A11-91FC-1725F292D2FC}|Hell2\\Hell2.vcxproj|solutionrelative:Hell2\\Hell22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9AA73-397E-4A11-91FC-1725F292D2FC}|Hell2\\Hell2.vcxproj|C:\\USERS\\USER\\ONEDRIVE\\NEW FOLDER\\ONEDRIVE\\DOCUMENTS\\CS213-2026-2027-ASSIGNMENT1-V4\\HELL2\\HELL2\\STB_IMAGE_WRITE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32A9AA73-397E-4A11-91FC-1725F292D2FC}|Hell2\\Hell2.vcxproj|solutionrelative:HELL2\\STB_IMAGE_WRITE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stb_image_write.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\New folder\\OneDrive\\Documents\\CS213-2026-2027-Assignment1-v4\\Hell2\\Hell2\\stb_image_write.h",
+              "RelativeDocumentMoniker": "Hell2\\stb_image_write.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\New folder\\OneDrive\\Documents\\CS213-2026-2027-Assignment1-v4\\Hell2\\Hell2\\stb_image_write.h",
+              "RelativeToolTip": "Hell2\\stb_image_write.h",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAkwBADAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-26T12:54:44.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hell22.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\New folder\\OneDrive\\Documents\\CS213-2026-2027-Assignment1-v4\\Hell2\\Hell2\\Hell22.cpp",
+              "RelativeDocumentMoniker": "Hell2\\Hell22.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\New folder\\OneDrive\\Documents\\CS213-2026-2027-Assignment1-v4\\Hell2\\Hell2\\Hell22.cpp*",
+              "RelativeToolTip": "Hell2\\Hell22.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-26T12:40:35.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
